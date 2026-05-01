@@ -92,10 +92,3 @@ A divergência observada reforça a importância de considerar múltiplas aborda
 
 ---
 
-## 📌 Possíveis Extensões
-
-* Adição de novas variáveis (ex: desempenho por lado)
-* Uso de datasets maiores
-* Teste com outros modelos de classificação
-* Avaliação com métricas adicionais
-
